@@ -23,8 +23,8 @@ To use PySynthMRI, first download and install dependencies:
 
 1. Clone the repository:
 
-.. code-block:: console
-   $ git clone https://github.com/FiRMLAB-Pisa/pySynthMRI.git
+.. code-block::
+      $ git clone https://github.com/FiRMLAB-Pisa/pySynthMRI.git
 
 2. Create a [Python Virtual Environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
