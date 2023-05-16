@@ -12,11 +12,11 @@ To use PySynthMRI as a Windows .exe file, follow the steps:
 2. unzip pySynthMRI-v1.0.0.zip
 3. run PySynthMRI.exe
 
-.. To use Lumache, first install it using pip:
+To use Lumache, first install it using pip:
 
-.. .. code-block:: console
+.. code-block:: console
 
-..    (.venv) $ pip install lumache
+   (.venv) $ pip install lumache
 
 
 Run as Python
@@ -28,7 +28,7 @@ Make sure you have [Python](https://python.org/) version >= 3.6.
 To use PySynthMRI, first download and install dependencies:
 1. Clone the repository:
 .. code-block:: console
-   git clone https://github.com/FiRMLAB-Pisa/pySynthMRI.git
+   $ git clone https://github.com/FiRMLAB-Pisa/pySynthMRI.git
 
 2. Create a [Python Virtual Environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 3. Install required libraries:
