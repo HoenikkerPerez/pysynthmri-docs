@@ -17,14 +17,16 @@ Run as Python
 -------------
 These instructions will give you a copy of the project up and running on your local machine,
 using Linux or MacOS<br>
-Make sure you have `Python <https://python.org/>`_ version >= 3.6.
+Make sure you have `Python <https://python.org/>` version >= 3.6.
 
 To use PySynthMRI, first download and install dependencies:
 
 Clone the repository:
 
-.. code-block::
-      $ git clone https://github.com/FiRMLAB-Pisa/pySynthMRI.git
+.. code-block:: console
+
+   (.venv) $ git clone https://github.com/FiRMLAB-Pisa/pySynthMRI.git
+
 
 Create a [Python Virtual Environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
