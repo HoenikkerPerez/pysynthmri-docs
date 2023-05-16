@@ -1,7 +1,7 @@
 Welcome to PySynthMRI's documentation!
 ===================================
 
-**PySynthMRI**  PysynthMRI is a python open-source tool which provides a user-friendly 
+**PySynthMRI** is a python open-source tool which provides a user-friendly 
 interface to synthesize contrast weighted images. It allows the user to load 
 quantitative maps and adjust virtual scanner parameters to obtain, in real time, 
 the best images.
