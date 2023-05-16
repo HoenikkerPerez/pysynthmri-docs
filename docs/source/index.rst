@@ -1,11 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to PySynthMRI's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
+**PySynthMRI**  PysynthMRI is a python open-source tool which provides a user-friendly 
+interface to synthesize contrast weighted images. It allows the user to load 
+quantitative maps and adjust virtual scanner parameters to obtain, in real time, 
+the best images.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
@@ -19,4 +18,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   .. api

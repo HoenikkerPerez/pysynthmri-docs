@@ -1,8 +1,8 @@
 """
-Lumache - Python library for cooks and food lovers.
+PysynthMRI - Open source tool for Synthetic MRI
 """
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 
 
 class InvalidKindError(Exception):

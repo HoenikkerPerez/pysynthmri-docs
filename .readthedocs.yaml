@@ -7,4 +7,6 @@ build:
   jobs:
     post_install:
       - echo ${testitest}
-
+  formats:
+  - pdf
+  - epub
